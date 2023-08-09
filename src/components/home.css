@@ -1,0 +1,56 @@
+.card {
+    transition: transform 0.3s ease;
+    cursor: pointer;
+
+
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    background-color: darkolivegreen;
+    color: white;
+}
+
+.project {
+    color: white;
+    text-align: center;
+    align-items: center;
+}
+
+#cat-image {
+    width: 60%;
+    border-radius: 50%;
+}
+
+.animated-component {
+    position: relative;
+}
+
+.photo-collage1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0;
+}
+
+.photo-collage1 img {
+    border: solid 2px;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    margin-bottom: 10px;
+    transition: transform 0.3s;
+}
+
+.photo-collage1 img:hover {
+    transform: scale(1.2);
+}
+
+.photo-collage1 img:hover~img {
+    transform: rotate(360deg);
+}
+
+.col-md-5 {
+    flex: 0 0 auto;
+    width: 50%;
+}

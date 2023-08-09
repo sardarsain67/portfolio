@@ -1,0 +1,42 @@
+/* MyComponent.css */
+
+.img-fluid {
+    width: 250px; /* Adjust the width to your desired size */
+    height: auto; /* Maintain the aspect ratio */
+    transition: transform 0.3s ease-in-out;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    box-shadow: var(--shd,0 1px 4px rgba(0,0,0,.6));
+  }
+  
+  .img-fluid :hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    box-shadow: var(--shd,0 1px 4px rgba(0,0,0,.6));
+    transform: translateX(10px);
+  }
+  .image-container img{
+    margin: auto;
+   align-items: center;
+    text-align: center;
+    margin-bottom: 3rem;
+  }
+  .image-container{
+    margin-top: 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+  }
+  .photo-collage{
+   
+    margin: auto;
+  }
+
+
+.col-md-6 {
+    flex: 0 0 auto;
+    width: 100%;
+}
+ 
+  
