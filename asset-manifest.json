@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.345923ff.css",
+    "main.js": "/portfolio/static/js/main.04abb8c9.js",
+    "static/js/787.165264a9.chunk.js": "/portfolio/static/js/787.165264a9.chunk.js",
+    "static/media/SardarSain_resumerRJAJ.pdf": "/portfolio/static/media/SardarSain_resumerRJAJ.9fb0bbd2f6500e043ea0.pdf",
+    "static/media/sardar.jpeg": "/portfolio/static/media/sardar.97cc0dea0249a7ab3a5d.jpeg",
+    "static/media/getfile.jpeg": "/portfolio/static/media/getfile.fb1e12b9024b5efd856e.jpeg",
+    "static/media/gupload.jpeg": "/portfolio/static/media/gupload.f9991d4fc042101a3e94.jpeg",
+    "static/media/email.jpeg": "/portfolio/static/media/email.f882edcbaccc156395d6.jpeg",
+    "static/media/inotebook.jpeg": "/portfolio/static/media/inotebook.abd1a2caa76b8a3f8bee.jpeg",
+    "static/media/logo.jpeg": "/portfolio/static/media/logo.a6829d737a3276bbc23e.jpeg",
+    "index.html": "/portfolio/index.html",
+    "main.345923ff.css.map": "/portfolio/static/css/main.345923ff.css.map",
+    "main.04abb8c9.js.map": "/portfolio/static/js/main.04abb8c9.js.map",
+    "787.165264a9.chunk.js.map": "/portfolio/static/js/787.165264a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.345923ff.css",
+    "static/js/main.04abb8c9.js"
+  ]
+}
